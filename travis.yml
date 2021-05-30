@@ -1,0 +1,5 @@
+- stage: Test and lint ✅
+  language: node_js
+  node_js: 8.5.0
+  install: yarn
+  script: npm run test:lint && npm run test:unit

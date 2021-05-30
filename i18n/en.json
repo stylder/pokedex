@@ -1,0 +1,16 @@
+{
+    "back": "Back",
+    "search": "Search",
+    "height": "Height",
+    "weight": "Weight",
+    "meters": "m",
+    "kilograms": "kg",
+    "statistics": "STATISTICS",
+
+    "hp": "HP",
+    "attack": "Attack",
+    "defense": "Defense",
+    "special-defense":"Special defense",
+    "special-attack":"Special-attack",
+    "speed":"Speed"
+}

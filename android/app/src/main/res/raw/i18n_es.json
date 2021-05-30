@@ -1,0 +1,16 @@
+{
+    "back": "Atrás",
+    "search": "Buscar",
+    "height": "Altura",
+    "weight": "Peso",
+    "meters": "m",
+    "kilograms": "kg",
+    "statistics": "ESTADÍSTICAS",
+
+    "hp": "HP",
+    "attack": "Ataque",
+    "defense": "Defensa",
+    "special-defense":"Defensa especial",
+    "special-attack":"Ataque especial",
+    "speed":"Velocidad"
+}

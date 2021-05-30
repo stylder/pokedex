@@ -43,9 +43,8 @@
     </thead>
     <tbody>
         <tr align="center">
-            <td>[Testflight (Comming Soon)](https://testflight.apple.com/join/)</td>
-            <td>[Play Store  (Comming Soon)](https://play.google.com/store/search?q=pokedex&c=apps)  &bull;  
-            [APK](https://github.com/stylder/pokedex/-/pipelines)</td>
+            <td> [Testflight - Comming Soon](https://testflight.apple.com/join/) </td>
+            <td> [Play Store - Comming Soon](https://play.google.com/store/search?q=pokedex&c=apps) - [APK](https://github.com/stylder/pokedex/tree/main/apk) </td>  
         </tr>
     </tbody>
 </table>
@@ -64,13 +63,13 @@
     </thead>
     <tbody>
         <tr align="center">
-            <td colspan=2>[Node.js](https://nodejs.org/)</td>
+            <td colspan=2> [Node.js](https://nodejs.org/) </td>
         </tr>
         <tr align="center">
-            <td colspan=2>[Yarn](https://yarnpkg.com/)</td>
+            <td colspan=2> [Yarn](https://yarnpkg.com/) </td>
         </tr>
         <tr align="center">
-            <td colspan=2>[Watchman](https://facebook.github.io/watchman/) (only for development)</td>
+            <td colspan=2> [Watchman](https://facebook.github.io/watchman/) (only for development) </td>
         </tr>
         <tr align="center">
             <td>XCode Command Line Tools</td>
@@ -184,7 +183,3 @@
         </tr>
     </tbody>
 </table>
-
-
-## TODO:
- - Setup Travis

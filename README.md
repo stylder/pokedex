@@ -5,7 +5,7 @@
 </a>
 
 
-
+[![Build Status](https://travis-ci.org/stylder/pokedex.svg?branch=main)](https://travis-ci.org/stylder/pokedex)
 
 
 ---

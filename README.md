@@ -20,6 +20,9 @@
 
 </div>
 
+<a href="https://github.com/stylder/pokedex">
+    <img src="assets/animations/pokedex.gif" width="600" alt="Pokedex" />
+</a>
 
 ## :star: Features
 |   | Pokedex |

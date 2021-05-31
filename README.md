@@ -32,51 +32,24 @@
 | ✅ | **Unit/integration test.** Powered by [Travis](https://travis-ci.org/github/stylder/pokedex) |
 
 
-
 ## Get Pokedex
-<table>
-    <thead>
-        <tr align="center">
-            <th width=300>iOS</th>
-            <th width=300>Android</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr align="center">
-            <td> [Testflight - Comming Soon](https://testflight.apple.com/join/) </td>
-            <td> [Play Store - Comming Soon](https://play.google.com/store/search?q=pokedex&c=apps) - [APK](https://github.com/stylder/pokedex/tree/main/apk) </td>  
-        </tr>
-    </tbody>
-</table>
+|  iOS | Android |
+| - | ------------ |
+| [Testflight - Comming Soon](https://testflight.apple.com/join/) | [Play Store - Comming Soon](https://play.google.com/store/search?q=pokedex&c=apps) - [APK](https://github.com/stylder/pokedex/tree/main/apk) |
+
 
 
 ## Setup
 
 ### Prerequisites
 
-<table>
-    <thead>
-        <tr align="center">
-            <th width=300>iOS</th>
-            <th width=300>Android</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr align="center">
-            <td colspan=2> [Node.js](https://nodejs.org/) </td>
-        </tr>
-        <tr align="center">
-            <td colspan=2> [Yarn](https://yarnpkg.com/) </td>
-        </tr>
-        <tr align="center">
-            <td colspan=2> [Watchman](https://facebook.github.io/watchman/) (only for development) </td>
-        </tr>
-        <tr align="center">
-            <td>XCode Command Line Tools</td>
-            <td>Android Studio and the Android SDK</td>
-        </tr>
-    </tbody>
-</table>
+
+|  iOS | Android |
+| - | ------------ |
+| [Node.js](https://nodejs.org/)|[Node.js](https://nodejs.org/)|
+| [yarn](https://yarnpkg.com/)|[yarn](https://yarnpkg.com/)|
+| [Watchman](https://facebook.github.io/watchman/)|[Watchman](https://facebook.github.io/watchman/)|
+| XCode Command Line Tools|Android Studio and the Android SDK|
 
 ### Procedure
 
@@ -92,10 +65,6 @@
         <tr align="center">
             <td>1</td>
             <td colspan=2>Clone the project<br /><i>Note: If you want to work on the latest stable version, checkout the latest tag</td>
-        </tr>
-        <tr align="center">
-            <td>2</td>
-            <td colspan=2>[Set up additional features if needed](#additional-steps)</td>
         </tr>
         <tr align="center">
             <td>3</td>

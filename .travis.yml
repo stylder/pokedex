@@ -15,4 +15,4 @@ install:
   - yarn
 script:
   - yarn lint
-  - yarn test
+  - yarn test --forceExit --detectOpenHandles

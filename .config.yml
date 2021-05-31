@@ -1,0 +1,18 @@
+# See the full version here:
+# https://github.com/vigetlabs/junit-blog-post/blob/master/.circleci/config.yml
+version: 2
+jobs:
+  build:
+    # Docker image and other setup steps ommitted
+    steps:
+      # Setup steps omitted
+      - run:
+          name: "Test React Native"
+          # yarn here makes sure we are using the local jest binary
+          command: yarn jest -- --ci --testResultsProcessor="jest-junit"
+          environment:
+            JEST_JUNIT_OUTPUT: "reports/junit/js-test-results.xml"
+      - store_test_results:
+          path: reports/junit
+      - store_artifacts:
+          path: reports/junit
